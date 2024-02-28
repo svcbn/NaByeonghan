@@ -1,10 +1,12 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</p>
 
+<!-- Desc -->
 <div align="center">
-<b>Hi! I'm Byeonghan.</b>
-  <br/>
-<b>I aim to be a developer people want to work with.</b>
+<h1><b>Hi! I'm Byeonghan.</b></h1>
+<h4><b>I aim to be a developer people want to work with.</b></h4>
 </div>
 <br/><br/>
 
@@ -77,4 +79,6 @@
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
