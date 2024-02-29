@@ -5,7 +5,7 @@
 
 <!-- Desc -->
 <div align="center">
-<h1><b>Hi! I'm Byeonghan.</b></h1>
+<h3><b>Hi! I'm Byeonghan.</b></h3>
 <h4><b>I aim to be a developer people want to work with.</b></h4>
 </div>
 <br/><br/>
