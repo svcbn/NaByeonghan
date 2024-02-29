@@ -61,7 +61,7 @@
 <div align="center">
   • KRAFTON Jungle Game Lab || Game Developer & Designer ( 2023.08 ~ 2024.01 )
   <br/>
-  • Metaverse Academy on MSIT || XR Developer ( 2022.06 ~ 2022.12 )
+  • Metaverse Academy on MSIT || XR Developer ( 2022.05 ~ 2022.12 )
   <br/>
   • Kyung Hee University || B.S Completed of Mech.Engineering ( 2015.03 ~ 2022.01)
 </div>
