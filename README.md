@@ -63,7 +63,7 @@
   <br/>
   • Metaverse Academy on MSIT || XR Developer ( 2022.05 ~ 2022.12 )
   <br/>
-  • Kyung Hee University || B.S Completed of Mech.Engineering ( 2015.03 ~ 2022.01)
+  • Kyung Hee University || B.S Completed of Mech.Engineering ( 2015.03 ~ 2022.01 )
 </div>
 <br/><br/><br/>
 
