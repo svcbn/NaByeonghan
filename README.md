@@ -39,7 +39,7 @@
 <p align="center">
   <a href="mailto:qudgks7946@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCZSAbwnrSiZCFBoG5YZhfsQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://velog.io/@svcbn/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>-->
+  <a href="https://svcbn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=thumbtack&logoColor=FF5A4A"/></a>
   <br/>
   <a href="https://github.com/svcbn"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvcbn&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)"/></a>
 </p>
