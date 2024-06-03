@@ -51,8 +51,8 @@
 <p align="center">
   <a href="https://store.steampowered.com/app/2735950/Necro_Rumble/"><img src="https://img.shields.io/badge/Steam-Necro_Rumble-1b2838?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <br/>
-  <a href="https://svcbn.notion.site/Na-Byeonghan-24ef127f11be4b2197ef12cc4c744181?pvs=4"><img src="https://img.shields.io/badge/Notion_Portfolio-191919?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+  <!-- <a href="https://svcbn.notion.site/Na-Byeonghan-24ef127f11be4b2197ef12cc4c744181?pvs=4"><img src="https://img.shields.io/badge/Notion_Portfolio-191919?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a> -->
 </p>
   <br/>
 
