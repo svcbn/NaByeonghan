@@ -24,12 +24,14 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
+
 </p>
 
 <p align="center">
+  <!--
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  -->
 </p>
 <br/>
 
@@ -59,6 +61,8 @@
 <!-- Experiences -->
 <h3 align="center"><b> 🏆 Experiences </b></h3>
 <div align="center">
+  • SuperCreative || Game Developer ( 2024.06 ~ )
+  <br/>
   • KRAFTON Jungle Game Lab || Game Developer & Designer ( 2023.08 ~ 2024.01 )
   <br/>
   • Metaverse Academy on MSIT || XR Developer ( 2022.05 ~ 2022.12 )
