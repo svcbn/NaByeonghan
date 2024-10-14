@@ -15,7 +15,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=333"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cocos2dx-55C2E1?style=for-the-badge&logo=Cocos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
@@ -24,19 +31,12 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
 </p>
 
-<p align="center">
-  <!--
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  -->
-</p>
 <br/>
 
 <!-- Contacts -->
-<h3 align="center"><b> ✉ Contacts </b></h3>
+<h3 align="center"><b> 📲 Contacts </b></h3>
 
 <p align="center">
   <a href="mailto:qudgks7946@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -65,10 +65,18 @@
   <br/>
   • KRAFTON Jungle Game Lab || Game Developer & Designer ( 2023.08 ~ 2024.01 )
   <br/>
+</div>
+<br/>
+
+<!-- Educations -->
+<h3 align="center"><b> 🎓 Educations </b></h3>
+<div align="center">
   • Metaverse Academy on MSIT || XR Developer ( 2022.05 ~ 2022.12 )
   <br/>
   • Kyung Hee University || B.S Completed of Mech.Engineering ( 2015.03 ~ 2022.01 )
+  <br/>
 </div>
+
 <br/><br/><br/>
 
 <!-- GitHub stats -->
